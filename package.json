@@ -1,0 +1,20 @@
+{
+    "name": "graphql-crash-course",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "",
+        "start": "nodemon index.js"
+
+    },
+    "keywords": [],
+    "author": "Miguel Garcia",
+    "license": "ISC",
+    "type": "module",
+    "description": "",
+    "dependencies": {
+        "@apollo/server": "^4.9.3",
+        "graphql": "^16.8.0",
+        "nodemon": "^3.0.1"
+    }
+}
